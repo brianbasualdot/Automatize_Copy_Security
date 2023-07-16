@@ -1,6 +1,4 @@
-# Autimatizador de copias de seguridad en Pyhon
-
-### Proyecto de baja complejidad
+# Autimatizador de copias de seguridad con Pyhon
 
 ![Tumbail](./img/code.png)
  
